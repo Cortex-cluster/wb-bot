@@ -1,0 +1,9 @@
+# Ignore WhatsApp WebJS auth and cache folders
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignore chat file storage
+chat_files/
+
+# Ignore dependencies
+node_modules/
